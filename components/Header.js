@@ -13,7 +13,7 @@ const Header = () => {
       {/* Left block - Logo */}
       <div className="relative flex items-center h-10 cursor-pointer my-auto mr-4">
         <Image
-          src="/../public/images/logo.png"
+          src="https://links.papareact.com/qd3"
           layout="fill"
           objectFit="contain"
           objectPosition="left"
