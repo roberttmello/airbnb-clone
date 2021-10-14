@@ -44,7 +44,7 @@ export default function Home({ exploreData, cardsData }) {
             ))}
           </div>
         </section>
-
+        
         <LargeCard
           image="https://links.papareact.com/4cj"
           title="The Greatest Outdoors"
